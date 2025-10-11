@@ -1,0 +1,35 @@
+    header{
+  margin: 0 auto;
+        background-image: url(./image\ 25.png);
+        width: 1400px;
+        height: 683px;
+
+    }
+    .conteiner{
+        width: 1200px;
+        margin: 0 auto;
+    }
+    .img-1{
+        width: 100px;
+        height: 100px;
+        margin-left: 10px;
+    }
+    .box{
+        display: flex;
+        justify-content: space-between;
+       
+    }
+
+    .img-2{
+         width: 54px;
+    height: 51px;
+    }
+    .h2-1{
+        margin-top: 250px;
+        margin-left: 250px;
+        font-size: 48px;
+    }
+
+    a{
+        color: red;
+    }
